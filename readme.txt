@@ -22,7 +22,6 @@ First, download, install, and activate POWr Plan Comparison. Then drop the widge
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-plan-comparison-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Showcase and compare an unlimited number of plans, products, and features side-by-side.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
@@ -32,9 +31,10 @@ First, download, install, and activate POWr Plan Comparison. Then drop the widge
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Plan Comparison.
