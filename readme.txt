@@ -31,6 +31,7 @@ First, download, install, and activate POWr Plan Comparison. Then drop the widge
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
+* Accept payments and donations directly through PayPal.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
