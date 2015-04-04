@@ -5,14 +5,14 @@ Donate link: http://powr.io/
 Tags: comparison, comparison table, css table, price, price grid, pricing, pricing box, pricing grid, pricing table, table, woocommerce, sell, payment gateway, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Display plans, products, and features in a side-by-side comparison! 
 
 == Description ==
-Display plans, products, and features in a side-by-side comparison! 
+ Display plans, products, and features in a side-by-side comparison! 
 <br>
 <br>
 POWr Plan Comparison is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -23,6 +23,7 @@ First, download, install, and activate POWr Plan Comparison. Then drop the widge
 = <a href='http://www.powr.io/tutorials/how-to-add-plan-comparison-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
+* Accept payments and donations directly through PayPal.
 * Showcase and compare an unlimited number of plans, products, and features side-by-side.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Distinguish your product or plan with customizable “highlight” feature. 
@@ -31,10 +32,10 @@ First, download, install, and activate POWr Plan Comparison. Then drop the widge
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Accept payments and donations directly through PayPal.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 
 == Installation ==
@@ -91,6 +92,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -105,5 +108,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 

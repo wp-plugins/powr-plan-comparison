@@ -2,12 +2,13 @@ tinymce.PluginManager.add('powr', function(editor, url) {
     editor.addButton('powr', {
         title : 'POWr Plugin',
         tooltip: 'Insert POWr Plugin',
-        image : 'powr-icon.png',
+        //image : 'powr-icon.png',
+        icon: 'icon powr-icon',
         type: 'menubutton',
         onclick : function(e) {
 			var app_name = e.target.innerText.replace(/^\s+|\s+$/g, '');
 			var app_shortcode = app_name.toLowerCase().replace(/ /g, '-');
-			if( app_shortcode ){
+			if( app_shortcode && !e.target.classList.contains('mce-menu-item-expand') && !e.target.parentElement.classList.contains('mce-menu-item-expand')){
 		        c = '[powr-'+app_shortcode+' label="Enter a Label"]'; //For just shortcode
 				//Set the content in the editor
 				editor.selection.setContent(c);			
