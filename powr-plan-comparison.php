@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Plan Comparison
     Plugin URI: http://www.powr.io
-    Description: Display plans, products, and features in a side-by-side comparison!   Drop the widget anywhere in your theme. Or use the POWr icon in your WP text editor to add to a page or post. Edit on your live page by clicking the settings icon. More plugins and tutorials at POWr.io.
+    Description: Display and sell products, plans, and services in a side-by-side comparison!   Drop the widget anywhere in your theme. Or use the POWr icon in your WP text editor to add to a page or post. Edit on your live page by clicking the settings icon. More plugins and tutorials at POWr.io.
     Author: POWr.io
     Version: 1.4
     Author URI: http://www.powr.io
@@ -42,7 +42,7 @@
           if(powr_local_mode()){//Determine JS url:
             $js_url = '//localhost:3000/powr_local.js';
           }else{
-            $js_url = '//d1w86dhf197kq6.cloudfront.net/powr.js';
+            $js_url = '//www.powr.io/powr.js';
           }
           ?>
           <script>

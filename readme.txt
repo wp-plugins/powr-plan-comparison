@@ -2,17 +2,17 @@
 ===POWr Plan Comparison===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: comparison, comparison table, css table, price, price grid, pricing, pricing box, pricing grid, pricing table, table, woocommerce, sell, payment gateway, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
+Tags: comparison, comparison table, payments, donations, subscriptions, memberships, recurring payments, css table, price, price grid, pricing, pricing box, pricing grid, pricing table, table, woocommerce, sell, payment gateway, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display plans, products, and features in a side-by-side comparison! 
+Display and sell products, plans, and services in a side-by-side comparison! 
 
 == Description ==
- Display plans, products, and features in a side-by-side comparison! 
+ Display and sell products, plans, and services in a side-by-side comparison! 
 <br>
 <br>
 POWr Plan Comparison is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -24,6 +24,7 @@ First, download, install, and activate POWr Plan Comparison. Then drop the widge
 <br>
 = Free Features =
 * Accept payments and donations directly through PayPal.
+* Create recurring payments for subscriptions and memberships.
 * Showcase and compare an unlimited number of plans, products, and features side-by-side.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Distinguish your product or plan with customizable “highlight” feature. 
